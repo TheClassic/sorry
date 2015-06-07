@@ -1,2 +1,5 @@
 *.opensdf
 *.sdf
+*.exp
+*.tlog
+*.lastbuildstate
